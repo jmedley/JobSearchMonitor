@@ -1,8 +1,8 @@
-# Privacy Policy for Job Search Assistant
+# Privacy Policy for Job Search Monitor
 
 **Last Updated:** June 25, 2026
 
-Job Search Assistant is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle information when you use the Job Search Assistant Chrome extension (the "Extension").
+Job Search Monitor is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle information when you use the Job Search Monitor Chrome extension (the "Extension").
 
 ## 1. Information We Collect
 * **No Personal Data Collected:** The Extension does not collect, store, or transmit any personally identifiable information (PII) to external servers.
