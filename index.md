@@ -1,25 +1,25 @@
-# Privacy Policy for [Extension Name]
+# Privacy Policy for Job Search Assistant
 
-**Last Updated:** [Date]
+**Last Updated:** June 25, 2026
 
-[Your Name/Company Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle information when you use the [Extension Name] Chrome extension (the "Extension").
+Job Search Assistant is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle information when you use the Job Search Assistant Chrome extension (the "Extension").
 
 ## 1. Information We Collect
-* **No Personal Data Collected:** The Extension does not collect, store, or transmit any personally identifiable information (PII).
-* **[Optional - Local Storage]:** The Extension stores your settings and configurations locally on your device via Chrome's storage API. This data never leaves your device.
-* **[Optional - Usage Data]:** We do not track your browsing history or extension usage data.
+* **No Personal Data Collected:** The Extension does not collect, store, or transmit any personally identifiable information (PII) to external servers.
+* **Sync Storage Configuration:** The Extension stores your preferences, settings, and configurations using Google Chrome's `chrome.storage.sync` API. This allows you to access the same settings if you are logged on to your Google account with a different device where the Extension is installed. 
+* **Data Transmission via Google Profile:** This configuration data is synced across your devices by Google using your signed-in Google account. We do not host external servers, and we never see, collect, or store this data ourselves.
 
 ## 2. How We Use Information
-* **Local Functionality:** Any data managed by the Extension is used solely to provide its core features on your device.
-* **No Third-Party Sharing:** We do not sell, trade, or share any user data with third parties.
+* **Multi-Device Functionality:** Sync storage data is used solely to provide a seamless user experience and maintain your settings when you switch between different devices.
+* **No Third-Party Sharing:** We do not sell, trade, or share any user data. Google handles the sync process securely in accordance with the Google Privacy Policy.
 
 ## 3. Data Security
-* **Device-Level Security:** Because your data stays locally on your browser, its security depends on your device's security.
-* **No Cloud Storage:** We do not host external servers to store your information.
+* **Google Cloud Security:** Because your data is synced using your Google account, its security relies on Google's cloud infrastructure and your personal account security.
+* **No Third-Party Servers:** We do not maintain any independent databases or cloud storage for your data.
 
 ## 4. Changes to This Privacy Policy
 * **Updates:** We may update this policy from time to time.
 * **Notification:** Changes will be reflected by updating the "Last Updated" date at the top of this page.
 
 ## 5. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [Your Email Address].
+If you have any questions about this Privacy Policy, please contact us at medleyj64119@gmail.com.
