@@ -30,3 +30,7 @@ To install this extension, [visit its page](https://chrome.google.com/webstore/d
 **Add Jobs:** To add a job title, enter a title in the provided box and click "Add". Generic job titles return more matches than specific job titles. For example, 'nurse' will return more matches than 'registered nurse'.
 
 ![Job Titles](./resources/job-titles.png)
+
+# Misc
+
+Read the extension's [privacy policy](privacy-policy).
