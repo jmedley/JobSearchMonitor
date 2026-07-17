@@ -29,4 +29,4 @@ Job Search Monitor is committed to protecting your privacy. This Privacy Policy 
 
 If you have any questions about this Privacy Policy, please contact us at <medleyj64119@gmail.com>.
 
-[Documentation](README.md)
+[Documentation](docs.md)
