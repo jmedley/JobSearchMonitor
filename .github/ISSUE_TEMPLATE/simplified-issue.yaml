@@ -1,0 +1,34 @@
+name: Simplified Support Request
+description: File a quick request with the core details.
+title: "[Request]: "
+labels: ["triage", "help wanted"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out this quick form to let us know how we can help.
+  - type: input
+    id: summary
+    attributes:
+      label: One-sentence summary
+      placeholder: e.g., Login button is unresponsive
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Urgency level
+      options:
+        - Low (I can wait)
+        - Medium (Blocking some work)
+        - High (System completely broken)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional details
+      placeholder: Provide any extra context or steps here.
+    validations:
+      required: false
