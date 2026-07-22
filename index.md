@@ -1,30 +1,32 @@
-# Privacy Policy for Job Search Monitor
+# Job Search Monitor
 
-**Last Updated:** June 25, 2026
+Job Search Monitor monitors your Gmail inbox for open jobs in real time and filters them by the job titles you're interested in. The current version of Job Search Monitor looks for open jobs in emails from the following job sites:
 
-Job Search Monitor is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle information when you use the Job Search Monitor Chrome extension (the "Extension").
+- Dice
+- Glassdoor
+- Indeed
+- Jobright
+- LinkedIn
 
-## 1. Information We Collect
+To install this extension, [visit its page](https://chrome.google.com/webstore/detail/eglfebdnlmbihokjhlnnobladmhhbmnl) on the Chrome Web Store.
 
-* **No Personal Data Collected:** The Extension does not collect, store, or transmit any personally identifiable information (PII) to external servers.
-* **Sync Storage Configuration:** The Extension stores your preferences, settings, and configurations using Google Chrome's `chrome.storage.sync` API. This allows you to access the same settings if you are logged on to your Google account with a different device where the Extension is installed.
-* **Data Transmission via Google Profile:** This configuration data is synced across your devices by Google using your signed-in Google account. We do not host external servers, and we never see, collect, or store this data ourselves.
+![The Options tab](./resources/hero.png)
 
-## 2. How We Use Information
+## The Interface
 
-* **Multi-Device Functionality:** Sync storage data is used solely to provide a seamless user experience and maintain your settings when you switch between different devices.
-* **No Third-Party Sharing:** We do not sell, trade, or share any user data. Google handles the sync process securely in accordance with the Google Privacy Policy.
+**Days:** Specifies how many days back (1–31) to search your inbox. The last selected value is remembered between uses.
+**Refresh:** Re-scans your inbox using your current job titles and day range. The first time, Google will ask you to sign in to grant access the extension access to Gmail.
 
-## 3. Data Security
+![List controls](./resources/days.png)
 
-* **Google Cloud Security:** Because your data is synced using your Google account, its security relies on Google's cloud infrastructure and your personal account security.
-* **No Third-Party Servers:** We do not maintain any independent databases or cloud storage for your data.
+**Sorting:** Click a column header to sort. Click again to reverse the order of selected column. Your last column and sort direction are remembered between uses.
 
-## 4. Changes to This Privacy Policy
+![Column sorting](./resources/sorting.png)
 
-* **Updates:** We may update this policy from time to time.
-* **Notification:** Changes will be reflected by updating the "Last Updated" date at the top of this page.
+**Open / Copy:** "Open" opens the job posting in a new tab; "Copy link" copies the job posting URL to your clipboard.
 
-## 5. Contact Us
+![Open/Copy](./resources/open-copy.png)
 
-If you have any questions about this Privacy Policy, please contact us at <medleyj64119@gmail.com>.
+**Add Jobs:** To add a job title, enter a title in the provided box and click "Add". Generic job titles return more matches than specific job titles. For example, 'nurse' will return more matches than 'registered nurse'.
+
+![Job Titles](./resources/job-titles.png)
