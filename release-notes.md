@@ -11,3 +11,7 @@ This page provides release notes for recent releases.
 * A 'Share' button was added.
 * The 'Donate' button was changed to 'Tip jar'.
 * A column overflow problem with LinkedIn emails received an interim fix.
+
+### Known Issues
+
+LinkedIn emails are not rendering correctly.
