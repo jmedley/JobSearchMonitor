@@ -1,5 +1,7 @@
 # Job Search Monitor
 
+**[Version 1.1.0 Release Notes](release-notes.md)**
+
 Job Search Monitor monitors your Gmail inbox for open jobs in real time and filters them by the job titles you're interested in. The current version of Job Search Monitor looks for open jobs in emails from the following job sites:
 
 - Dice
