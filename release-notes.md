@@ -2,9 +2,9 @@
 
 This page provides release notes for recent releases.
 
-## 1.1.5
+## 1.1.7
 
-**Released:** August 11, 2026
+**Released:** August 13, 2026
 
 All change are internal.
 
