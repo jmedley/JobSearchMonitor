@@ -2,13 +2,11 @@
 
 Job Search Monitor monitors your Gmail inbox for open jobs in real time and filters them by the job titles you're interested in. The current version of Job Search Monitor looks for open jobs in emails from the following job sites:
 
-* Builtin (new)
-* Dice
-* Glassdoor
-* Hiring Cafe (new)
-* Indeed (now matches both email styles)
-* Jobright
-* LinkedIn
+- Dice
+- Glassdoor
+- Indeed
+- Jobright
+- LinkedIn
 
 To install this extension, [visit its page](https://chrome.google.com/webstore/detail/eglfebdnlmbihokjhlnnobladmhhbmnl) on the Chrome Web Store.
 
