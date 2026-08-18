@@ -4,7 +4,7 @@ This page provides release notes for recent releases.
 
 ## 1.1.8
 
-**Released:** August 18, 2026
+**Released:** August 24, 2026
 
 ### Enhancements
 
