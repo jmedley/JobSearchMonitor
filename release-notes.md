@@ -2,6 +2,17 @@
 
 This page provides release notes for recent releases.
 
+## 1.1.8
+
+**Released:** August 24, 2026
+
+### Enhancements
+
+* Job titles now wrap to multiple lines so that the whole job title may be read.
+* Job Search Monitor now processes emails from _Builtin_ and _Hiring Cafe_.
+* Email parsers now handle emails from match.indeed.com in addition to jobalert.indeed.com.
+* For convenience, an additional refresh button was added near the job title configuration options.
+
 ## 1.1.7
 
 **Released:** August 13, 2026
