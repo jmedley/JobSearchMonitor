@@ -2,6 +2,14 @@
 
 This page provides release notes for recent releases.
 
+## 1.1.10
+
+**Released:**
+
+### Enhancements and Fixes
+
+* The buttons in the 'Actions' column now aligns correctly with the rest of the 'Jobs' table.
+
 ## 1.1.9
 
 **Released:** August 31, 2026
