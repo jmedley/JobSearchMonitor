@@ -2,6 +2,17 @@
 
 This page provides release notes for recent releases.
 
+## 1.1.9
+
+**Released:** August 31, 2026
+
+### Enhancements
+
+* Now parsers emails from _ZipRecruiter_.
+* The jobs list loads faster.
+* Fixed the display of the extension icon in the jobs list header.
+* Fixed rendering of visible text so that non-word characters display correctly.
+
 ## 1.1.8
 
 **Released:** August 24, 2026
