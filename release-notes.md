@@ -4,7 +4,7 @@ This page provides release notes for recent releases.
 
 ## 1.1.10
 
-**Released:**
+**Released:** September 7, 2026
 
 ### Enhancements and Fixes
 
