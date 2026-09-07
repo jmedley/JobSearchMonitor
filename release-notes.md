@@ -2,6 +2,17 @@
 
 This page provides release notes for recent releases.
 
+## 1.1.10
+
+**Released:** September 7, 2026
+
+### Enhancements and Fixes
+
+* Refresh of the jobs list now happens on a 30-minute cycle. That cycle is explicit to the user via refresh time.
+* Made the loading of new jobs more obvious to users.
+* The buttons in the 'Actions' column now aligns correctly with the rest of the 'Jobs' table.
+* The 'Actions' column no longer appears sortable.
+
 ## 1.1.9
 
 **Released:** August 31, 2026
