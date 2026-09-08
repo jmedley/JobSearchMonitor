@@ -2,6 +2,10 @@
 
 This page provides release notes for recent releases.
 
+**User Alert:** Posted September 8, 2026
+
+ZipRecruiter emails currently contain a non-visible format error (specifically, a missing quotation mark in the HTML markup) that is preventing processing of the those emails for jobs. I'm working on a long-term solution to unparsed emails generally. In the meantime, I'm not fixing problems with specific email senders because they are usually fixed by the senders themselves within a few days.
+
 ## 1.1.10
 
 **Released:** September 7, 2026
