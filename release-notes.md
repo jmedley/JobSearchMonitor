@@ -1,10 +1,14 @@
 # Release Notes
 
-This page provides release notes for recent releases.
+This page provides notes about recent releases.
 
-**User Alert:** Posted September 8, 2026
+## 1.1.11
 
-ZipRecruiter emails currently contain a non-visible format error (specifically, a missing quotation mark in the HTML markup) that is preventing processing of the those emails for jobs. I'm working on a long-term solution to unparsed emails generally. In the meantime, I'm not fixing problems with specific email senders because they are usually fixed by the senders themselves within a few days.
+**Released:** September 14, 2026
+
+* A variation in ZipRecuriter emails is not accounted for, making all known variations parsable.
+* The 'Date Recieved' column now sorts correctly by time as well as date.
+* The 'Last retrieved' date and time is now 'Last refreshed' and only contains the time.
 
 ## 1.1.10
 
@@ -55,6 +59,8 @@ All change are internal.
 * A 'Share' button was added.
 * The 'Donate' button was changed to 'Tip jar'.
 * Column widths were adjusted to account for text that takes up too much space. This was done as a temporary fix for the LinkedIn issue. (See below.) It is being kept to prevent future problems.
+* A subtle highlight now appears over whichever row contains the mouse pointer.
+* A signal now alerts the user to refresh the 'Jobs list' after a job title has been added.
 
 ### Known Issues
 
