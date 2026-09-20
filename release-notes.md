@@ -2,6 +2,13 @@
 
 This page provides notes about recent releases.
 
+## 1.1.12
+
+**Released:** September 20, 2026
+
+* The 'Options' table was reorganized.
+* There's now a link to allow users to suggest a new sender.
+
 ## 1.1.11
 
 **Released:** September 14, 2026
