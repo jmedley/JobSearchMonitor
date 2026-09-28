@@ -2,6 +2,13 @@
 
 This page provides notes about recent releases.
 
+## 1.1.13
+
+**Released:** September 28, 2026
+
+* Interface is no in Spanish when Chrome's default language is set to Spanish.
+* Improved ARIA tags (for the visually impaired).
+
 ## 1.1.12
 
 **Released:** September 20, 2026
