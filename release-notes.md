@@ -2,6 +2,18 @@
 
 This page provides notes about recent releases.
 
+## 1.1.14
+
+**Released:** October 5, 2026
+
+### Enhances
+
+* Columns are now resizeable.
+
+### Known Issues
+
+* The column resize cursor is not visible the first few times it's used. This happens after every page load or reload. The root cause is a Chrome bug that has so far eluded all attempts at a work-around.
+
 ## 1.1.13
 
 **Released:** September 28, 2026
