@@ -2,17 +2,23 @@
 
 This page provides notes about recent releases.
 
+## 1.1.15
+
+**Released:** October 11, 2026
+
+Adds an option to control whether focus follows an open link or whether links open in a separate tab while staying on the current tab. You'll find this option at the bottom of the screen.
+
 ## 1.1.14
 
 **Released:** October 5, 2026
 
 ### Enhances
 
-* Columns are now resizeable.
+Columns are now resizeable.
 
 ### Known Issues
 
-* The column resize cursor is not visible the first few times it's used. This happens after every page load or reload. The root cause is a Chrome bug that has so far eluded all attempts at a work-around.
+The column resize cursor is not visible the first few times it's used. This happens after every page load or reload. The root cause is a Chrome bug that has so far eluded all attempts at a work-around.
 
 ## 1.1.13
 
