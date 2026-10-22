@@ -2,6 +2,12 @@
 
 This page provides notes about recent releases.
 
+## 1.1.16
+
+**Released:** October 21, 2026
+
+Fixes a bug that shows help text after it's no longer needed.
+
 ## 1.1.15
 
 **Released:** October 11, 2026
