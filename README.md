@@ -9,6 +9,7 @@ Job Search Monitor monitors your Gmail inbox for open jobs in real time and filt
 * Indeed
 * Jobright
 * LinkedIn
+* Monster
 * ZipRecruiter
 
 To install this extension, [visit its page](https://chrome.google.com/webstore/detail/eglfebdnlmbihokjhlnnobladmhhbmnl) on the Chrome Web Store.

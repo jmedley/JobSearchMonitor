@@ -2,6 +2,12 @@
 
 This page provides notes about recent releases.
 
+## 1.1.17
+
+**Released:** October 28, 2026
+
+The extension now diplays instructions for first-time installations.
+
 ## 1.1.16
 
 **Released:** October 21, 2026
